@@ -1,13 +1,13 @@
 # Dodset
 
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/78267674/154285471-69b5c8ef-3685-4087-ace0-b79fae12fa57.gif)
+
 ## Features
 > - Easy to use!
 > - You can easily play miencraft with you're friends!
 > - This client is legal!
 > - I made it for my IT classes.
 > - Undetectable.  
-
-![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/78267674/154285471-69b5c8ef-3685-4087-ace0-b79fae12fa57.gif)  
 
 ## Clone the repo
 ```
