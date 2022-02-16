@@ -14,7 +14,7 @@
 $ git clone https://github.com/Erwin-afk/Dodset
 ```
 
-- Written in [`python 3.7`](https://www.python.org/downloads/release/python-370/)    
+- Written in [`python 3.7`](https://www.python.org/downloads/release/python-370/)  
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ervinafk)
 
