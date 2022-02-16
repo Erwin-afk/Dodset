@@ -13,7 +13,8 @@ n = ["n","N","no","NO"]
 
 title="""
 █▀▄ █▀█ █▀▄ █▀ █▀▀ ▀█▀
-█▄▀ █▄█ █▄▀ ▄█ ██▄ ░█░ v0.7"""
+█▄▀ █▄█ █▄▀ ▄█ ██▄ ░█░ v0.7 \n
+--- Author: Erwin ---\n"""
 print(title)
 
 
@@ -22,12 +23,14 @@ n_text = (f"[{Fore.YELLOW}-{Style.RESET_ALL}] Closing {Fore.LIGHTBLUE_EX}Dodset{
 
 link = "https://rubugvkrwjee.mestermc.hu/3TtRL64MJ7yV1YQ/BrutalTelepito116.exe"
 
+input(f"Press '{Fore.CYAN}enter{Style.RESET_ALL}' to start")
+
 def main():
     try:
         wget.download(link,"MesterMC.exe")
         print(f"[{Fore.GREEN}v{Style.RESET_ALL}] Succes!")
         os.system("cls")
-        
+
         y_n = input("Would you like to launch 'MesterMC.exe'? Y/N ")
 
 
