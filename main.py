@@ -11,10 +11,10 @@ init()
 y = ["y","Y","yes","YES"]
 n = ["n","N","no","NO"]
 
-title="""
+title=f"""
 █▀▄ █▀█ █▀▄ █▀ █▀▀ ▀█▀
-█▄▀ █▄█ █▄▀ ▄█ ██▄ ░█░ v0.7 \n
---- Author: Erwin ---\n"""
+█▄▀ █▄█ █▄▀ ▄█ ██▄ ░█░ v{Fore.GREEN}0.7{Style.RESET_ALL} \n
+--- Author: {Fore.CYAN}Erwin{Style.RESET_ALL} ---\n"""
 print(title)
 
 
@@ -64,4 +64,7 @@ def main():
         except:
             time.sleep(3)
         pass
+
+
+
 main()
