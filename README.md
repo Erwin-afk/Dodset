@@ -4,7 +4,7 @@
 
 ## Features
 > - Easy to use!
-> - You can easily play miencraft with you're friends!
+> - You can easily play minecraft with you're friends!
 > - This client is legal!
 > - I made it for my IT classes.
 > - Undetectable.  
